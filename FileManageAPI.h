@@ -6,7 +6,7 @@
 /*
 // 當想要增加fp時，enum可以自己新增，但是有幾個注意事項
 // 1.eFM_TotalNum不能刪除，而且一定要擺在最後一個
-// 2.enum元素不能擅自指定數字，這樣eFM_TotalNum所代表的Total Number才會正確
+// 2.enum元素不能指定數字，這樣eFM_TotalNum所代表的Total Number才會正確
 */
 enum{eFM_Test1, eFM_TotalNum};
 
